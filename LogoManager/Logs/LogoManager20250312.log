@@ -1,0 +1,42 @@
+2025-03-12 20:27:33  INFO  Server listening on port 1313
+2025-03-12 20:27:40  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 20:29:16  INFO  Server listening on port 1313
+2025-03-12 20:29:17  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 20:31:08  INFO  Server listening on port 1313
+2025-03-12 20:31:14  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 20:31:31  INFO  Server listening on port 1313
+2025-03-12 20:31:31  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 20:40:25  INFO  Server listening on port 1313
+2025-03-12 20:40:54  INFO  Server listening on port 1313
+2025-03-12 20:40:54  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 20:42:29  INFO  Server listening on port 1313
+2025-03-12 20:42:29  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 20:42:57  INFO  Server listening on port 1313
+2025-03-12 20:42:57  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 20:44:46  INFO  Server listening on port 1313
+2025-03-12 20:44:47  WARN  Overriding address(es) 'https://localhost:5001'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 20:46:05  INFO  Server listening on port 1313
+2025-03-12 20:46:05  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 20:54:09  INFO  Server listening on port 1313
+2025-03-12 20:54:34  INFO  Server listening on port 1313
+2025-03-12 20:54:34  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 20:55:38  INFO  Server listening on port 1313
+2025-03-12 20:55:38  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 21:00:33  INFO  Server listening on port 1313
+2025-03-12 21:00:34  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 21:01:26  INFO  Server listening on port 1313
+2025-03-12 21:01:26  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 21:01:59  INFO  Server listening on port 1313
+2025-03-12 21:01:59  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 21:03:19  INFO  Server listening on port 1313
+2025-03-12 21:03:20  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 21:05:40  INFO  Server listening on port 1313
+2025-03-12 21:05:40  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 21:08:29  INFO  Server listening on port 1313
+2025-03-12 21:08:29  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 21:10:25  INFO  Server listening on port 1313
+2025-03-12 21:10:26  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 21:11:40  INFO  Server listening on port 1313
+2025-03-12 21:11:40  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-12 21:13:58  INFO  Server listening on port 1313
+2025-03-12 21:13:59  WARN  Overriding address(es) 'http://0.0.0.0:5000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.

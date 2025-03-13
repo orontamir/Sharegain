@@ -1,0 +1,37 @@
+version: '3.8'
+services:
+
+#------------------------ mongodb ---------------------------
+
+  mongo:
+    image: mongo
+    container_name: mongo
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=qwerty
+    command: [--auth]
+    volumes:
+      - '~\Documents\Dev\MongoDb:/data/db'
+    ports:
+      - 27017:27017
+    restart: unless-stopped
+
+ # --------------Logo Manager------------------------------
+
+  logo:
+    container_name: logo
+    build:
+      context: .
+      dockerfile: Dockerfile  
+    environment:
+      - MultipleDatabaseSettings__MainDB__CollectionName=
+      - MultipleDatabaseSettings__MainDB__ConnectionString=mongodb://root:qwerty@mongo:27017/admin?authMechanism=SCRAM-SHA-1
+      - MultipleDatabaseSettings__MainDB__DatabaseName=SharegainDb
+      - TcpPort=1313
+      - TcpIp=0.0.0.0
+    restart: unless-stopped
+    ports:
+      - 5000:5000
+      - 1313:1313
+    depends_on:
+      - mongo

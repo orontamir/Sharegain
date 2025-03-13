@@ -1,0 +1,289 @@
+2025-03-13 00:14:35  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:14:35  INFO  Start Running IoT Servic
+2025-03-13 00:14:39  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:15:14  WARN  POST request failed to https://localhost:7036/api/User/Login. Error: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+2025-03-13 00:15:14  INFO  Sin = 16, State = 2170.4608572337193, Counter = 0, dateTime =  03/13/2025 00:15:14.526
+2025-03-13 00:15:33  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:15:35  INFO  Sin = 29.856406460551018, State = 1416.3666242870588, Counter = 1, dateTime =  03/13/2025 00:15:35.087
+2025-03-13 00:16:00  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:16:00  INFO  Start Running IoT Servic
+2025-03-13 00:16:02  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:16:28  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:16:28  INFO  Start Running IoT Servic
+2025-03-13 00:16:39  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:16:52  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: InternalServerError
+2025-03-13 00:16:52  INFO  Sin = 16, State = 3461.1680601158237, Counter = 0, dateTime =  03/13/2025 00:16:52.209
+2025-03-13 00:16:54  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:16:56  INFO  Sin = 29.856406460551018, State = 842.5778437487995, Counter = 1, dateTime =  03/13/2025 00:16:56.562
+2025-03-13 00:17:04  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:17:04  INFO  Start Running IoT Servic
+2025-03-13 00:17:06  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:17:27  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: InternalServerError
+2025-03-13 00:17:27  INFO  Sin = 16, State = 1417.2409524396473, Counter = 0, dateTime =  03/13/2025 00:17:27.542
+2025-03-13 00:17:59  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:17:59  INFO  Start Running IoT Servic
+2025-03-13 00:18:01  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:18:02  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: InternalServerError
+2025-03-13 00:19:12  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:19:12  INFO  Start Running IoT Servic
+2025-03-13 00:19:14  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:19:15  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: InternalServerError
+2025-03-13 00:20:35  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:20:35  INFO  Start Running IoT Servic
+2025-03-13 00:20:42  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:20:42  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: InternalServerError
+2025-03-13 00:21:54  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:21:55  INFO  Start Running IoT Servic
+2025-03-13 00:21:57  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:22:26  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:22:26  INFO  Start Running IoT Servic
+2025-03-13 00:22:28  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:23:14  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:23:14  INFO  Start Running IoT Servic
+2025-03-13 00:23:17  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:23:38  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: InternalServerError
+2025-03-13 00:24:17  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:24:17  INFO  Start Running IoT Servic
+2025-03-13 00:24:24  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:24:32  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: InternalServerError
+2025-03-13 00:24:56  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:24:56  INFO  Start Running IoT Servic
+2025-03-13 00:25:05  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:25:10  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: InternalServerError
+2025-03-13 00:26:23  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:26:24  INFO  Start Running IoT Servic
+2025-03-13 00:26:36  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:27:40  WARN  POST request failed to https://localhost:7036/api/User/Login. Error: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+2025-03-13 00:29:23  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:29:23  INFO  Start Running IoT Servic
+2025-03-13 00:29:31  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:30:02  WARN  POST request failed to https://localhost:7036/api/User/Login. Error: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+2025-03-13 00:30:43  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:30:43  INFO  Start Running IoT Servic
+2025-03-13 00:30:49  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:31:11  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 00:31:27  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 00:38:58  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:38:59  INFO  Start Running IoT Servic
+2025-03-13 00:38:59  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:39:01  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 00:39:10  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 00:39:10  INFO  Sin = 16, State = 1088.7370821318057, Counter = 0, dateTime =  03/13/2025 00:39:10.537
+2025-03-13 00:39:38  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:39:41  INFO  Sin = 29.856406460551018, State = 1108.4304416942914, Counter = 1, dateTime =  03/13/2025 00:39:41.988
+2025-03-13 00:39:50  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:39:52  INFO  Sin = 29.85640646055102, State = 2994.859514109907, Counter = 2, dateTime =  03/13/2025 00:39:52.915
+2025-03-13 00:41:50  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:41:50  INFO  Start Running IoT Servic
+2025-03-13 00:41:51  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:41:53  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 00:41:53  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 00:41:53  INFO  Sin = 16, State = 1143.630436448616, Counter = 0, dateTime =  03/13/2025 00:41:53
+2025-03-13 00:46:08  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:46:08  INFO  Start Running IoT Servic
+2025-03-13 00:46:08  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:46:10  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 00:46:10  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 00:46:10  INFO  Sin = 16, State = 3364.7882636738914, Counter = 0, dateTime =  03/13/2025 00:46:10
+2025-03-13 00:51:14  WARN  POST request failed to https://localhost:7036/api/IoT/Create. Error: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+2025-03-13 00:51:26  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:51:26  INFO  Start Running IoT Servic
+2025-03-13 00:51:26  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:51:28  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 00:51:28  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 00:51:28  INFO  Sin = 16, State = 1631.2533652691375, Counter = 0, dateTime =  13/03/2025 0:51:28
+2025-03-13 00:51:45  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 00:51:45  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 00:51:47  INFO  Sin = 29.856406460551018, State = 1674.476680422284, Counter = 1, dateTime =  13/03/2025 0:51:47
+2025-03-13 00:51:50  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 00:51:50  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 00:51:52  INFO  Sin = 29.85640646055102, State = 2584.1466683061735, Counter = 2, dateTime =  13/03/2025 0:51:52
+2025-03-13 00:51:52  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 00:51:52  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 00:51:54  INFO  Sin = 16.000000000000004, State = 2097.60773581015, Counter = 3, dateTime =  13/03/2025 0:51:54
+2025-03-13 00:51:54  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 00:51:54  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 00:51:56  INFO  Sin = 2.1435935394489842, State = 2986.404253778894, Counter = 4, dateTime =  13/03/2025 0:51:56
+2025-03-13 00:51:56  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 00:51:56  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 00:51:58  INFO  Sin = 2.1435935394489825, State = 746.1049142724316, Counter = 5, dateTime =  13/03/2025 0:51:58
+2025-03-13 00:51:58  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 00:51:58  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 00:52:00  INFO  Sin = 15.999999999999996, State = 1926.9103297799475, Counter = 6, dateTime =  13/03/2025 0:52:00
+2025-03-13 00:52:00  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 00:52:00  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 00:52:02  INFO  Sin = 29.856406460551014, State = 3888.196227528466, Counter = 7, dateTime =  13/03/2025 0:52:02
+2025-03-13 00:52:02  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 00:52:02  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 00:52:04  INFO  Sin = 29.856406460551028, State = 1706.1948104139988, Counter = 8, dateTime =  13/03/2025 0:52:04
+2025-03-13 00:52:04  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 00:52:04  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 00:52:06  INFO  Sin = 16.000000000000007, State = 1038.8932445909322, Counter = 9, dateTime =  13/03/2025 0:52:06
+2025-03-13 00:52:06  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 00:52:06  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 00:53:12  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:53:12  INFO  Start Running IoT Servic
+2025-03-13 00:53:12  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:53:14  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 00:53:14  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 00:53:14  INFO  Sin = 16, State = 3418.2263132940707, Counter = 0, dateTime =  13/03/2025 0:53:14
+2025-03-13 00:53:14  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:16  INFO  Sin = 29.856406460551018, State = 2910.3499578453484, Counter = 1, dateTime =  13/03/2025 0:53:16
+2025-03-13 00:53:16  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:18  INFO  Sin = 29.85640646055102, State = 1514.913121731417, Counter = 2, dateTime =  13/03/2025 0:53:18
+2025-03-13 00:53:18  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:20  INFO  Sin = 16.000000000000004, State = 3957.5435758570256, Counter = 3, dateTime =  13/03/2025 0:53:20
+2025-03-13 00:53:20  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:22  INFO  Sin = 2.1435935394489842, State = 647.095471593524, Counter = 4, dateTime =  13/03/2025 0:53:22
+2025-03-13 00:53:22  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:24  INFO  Sin = 2.1435935394489825, State = 3334.969964229355, Counter = 5, dateTime =  13/03/2025 0:53:24
+2025-03-13 00:53:25  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:27  INFO  Sin = 15.999999999999996, State = 1363.9680602136423, Counter = 6, dateTime =  13/03/2025 0:53:27
+2025-03-13 00:53:27  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:29  INFO  Sin = 29.856406460551014, State = 3102.2816083968946, Counter = 7, dateTime =  13/03/2025 0:53:29
+2025-03-13 00:53:29  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:31  INFO  Sin = 29.856406460551028, State = 2860.5096806187885, Counter = 8, dateTime =  13/03/2025 0:53:31
+2025-03-13 00:53:31  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:33  INFO  Sin = 16.000000000000007, State = 2606.5717452061367, Counter = 9, dateTime =  13/03/2025 0:53:33
+2025-03-13 00:53:33  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:35  INFO  Sin = 2.1435935394489807, State = 3972.5019336911732, Counter = 10, dateTime =  13/03/2025 0:53:35
+2025-03-13 00:53:35  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:37  INFO  Sin = 2.1435935394489736, State = 1962.8039009139213, Counter = 11, dateTime =  13/03/2025 0:53:37
+2025-03-13 00:53:37  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:39  INFO  Sin = 15.999999999999993, State = 1975.2285813229075, Counter = 12, dateTime =  13/03/2025 0:53:39
+2025-03-13 00:53:39  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:53:41  INFO  Sin = 29.85640646055102, State = 2352.4300411493555, Counter = 13, dateTime =  13/03/2025 0:53:41
+2025-03-13 00:53:41  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 00:54:16  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 00:54:16  INFO  Start Running IoT Servic
+2025-03-13 00:54:17  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 00:54:18  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 00:54:18  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 00:54:32  INFO  Sin = 16, State = 598.0054469191998, Counter = 0, dateTime =  13/03/2025 0:54:32
+2025-03-13 01:00:28  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 01:00:28  INFO  Start Running IoT Servic
+2025-03-13 01:00:39  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 01:00:41  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 01:00:41  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 01:00:49  INFO  Sin = 16, State = 3389.8164665338836, Counter = 0, dateTime =  13/03/2025 1:00:49
+2025-03-13 01:00:52  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 01:00:54  INFO  Sin = 29.856406460551018, State = 2254.919203988312, Counter = 1, dateTime =  13/03/2025 1:00:54
+2025-03-13 01:05:25  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 01:05:25  INFO  Start Running IoT Servic
+2025-03-13 01:05:26  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 01:05:27  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 01:05:27  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 01:05:27  INFO  Sin = 16, State = 3402.771419537972, Counter = 0, dateTime =  13/03/2025 1:05:27
+2025-03-13 01:05:31  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 01:05:33  INFO  Sin = 29.856406460551018, State = 2408.4365438361433, Counter = 1, dateTime =  13/03/2025 1:05:33
+2025-03-13 01:06:23  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 01:06:23  INFO  Start Running IoT Servic
+2025-03-13 01:06:23  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 01:06:25  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 01:06:25  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 01:06:25  INFO  Sin = 16, State = 2279.760105526014, Counter = 0, dateTime =  13/03/2025 1:06:25
+2025-03-13 01:06:27  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 01:06:29  INFO  Sin = 29.856406460551018, State = 2082.7975269941717, Counter = 1, dateTime =  13/03/2025 1:06:29
+2025-03-13 01:21:28  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 01:21:28  INFO  Start Running IoT Servic
+2025-03-13 01:21:29  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 01:21:30  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 01:21:31  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 01:22:53  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 01:22:53  INFO  Start Running IoT Servic
+2025-03-13 01:22:55  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 01:22:57  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 01:22:57  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 01:23:32  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 01:23:32  INFO  Start Running IoT Servic
+2025-03-13 01:23:35  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 01:23:37  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 01:23:37  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 01:24:03  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 01:24:03  INFO  Start Running IoT Servic
+2025-03-13 01:24:07  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 01:24:09  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 01:24:09  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 01:24:19  INFO  Sin = 16, State = 1723.3567699978078, Counter = 0, dateTime =  13/03/2025 1:24:19
+2025-03-13 01:24:21  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 01:24:27  INFO  Sin = 29.856406460551018, State = 514.2250933399241, Counter = 1, dateTime =  13/03/2025 1:24:27
+2025-03-13 01:24:28  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: InternalServerError
+2025-03-13 01:24:30  INFO  Sin = 29.85640646055102, State = 2013.46414538254, Counter = 2, dateTime =  13/03/2025 1:24:30
+2025-03-13 01:32:13  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 01:32:13  INFO  Start Running IoT Servic
+2025-03-13 01:32:18  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 01:32:20  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 01:32:20  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 01:32:27  INFO  Sin = 16, State = 3020.8014185020966, Counter = 0, dateTime =  13/03/2025 1:32:27
+2025-03-13 01:32:28  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: Unauthorized
+2025-03-13 01:32:30  INFO  Sin = 29.856406460551018, State = 332.24713095672126, Counter = 1, dateTime =  13/03/2025 1:32:30
+2025-03-13 01:33:33  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 01:33:33  INFO  Start Running IoT Servic
+2025-03-13 01:33:36  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 01:33:38  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 01:33:38  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 01:33:41  INFO  Sin = 16, State = 3614.772016965644, Counter = 0, dateTime =  13/03/2025 1:33:41
+2025-03-13 01:33:43  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: Unauthorized
+2025-03-13 01:33:45  INFO  Sin = 29.856406460551018, State = 1363.7945747039705, Counter = 1, dateTime =  13/03/2025 1:33:45
+2025-03-13 01:36:14  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 01:36:14  INFO  Start Running IoT Servic
+2025-03-13 01:36:16  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 01:36:18  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 01:36:18  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 01:36:20  INFO  Sin = 16, State = 1322.2748467345837, Counter = 0, dateTime =  13/03/2025 1:36:20
+2025-03-13 01:36:23  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 01:36:23  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 01:36:25  INFO  Sin = 29.856406460551018, State = 3480.848501082421, Counter = 1, dateTime =  13/03/2025 1:36:25
+2025-03-13 01:36:31  INFO  API POST request: https://localhost:7036/api/IoT/Create. Response code: OK
+2025-03-13 01:36:31  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Create'
+2025-03-13 01:36:33  INFO  Sin = 29.85640646055102, State = 2412.4712469223136, Counter = 2, dateTime =  13/03/2025 1:36:33
+2025-03-13 08:43:05  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 08:43:05  INFO  Start Running IoT Servic
+2025-03-13 08:43:12  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 08:43:14  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 08:43:14  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 08:43:18  INFO  Sin = 16, State = 3758.2587957562264, Counter = 0, dateTime =  13/03/2025 8:43:18
+2025-03-13 08:46:49  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 08:46:49  INFO  Start Running IoT Servic
+2025-03-13 08:46:49  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 08:46:51  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 08:46:51  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 08:46:51  INFO  Sin = 16, State = 3000.627792650076, Counter = 0, dateTime =  13/03/2025 8:46:51
+2025-03-13 08:48:49  INFO  Set base url for http client: https://localhost:7036
+2025-03-13 08:48:49  INFO  Start Running IoT Servic
+2025-03-13 08:48:49  WARN  Overriding address(es) 'http://0.0.0.0:6000'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-03-13 08:48:51  INFO  API POST request: https://localhost:7036/api/User/Login. Response code: OK
+2025-03-13 08:48:51  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/User/Login'
+2025-03-13 08:48:51  INFO  Sin = 16, State = 3209.145797366854, Counter = 0, dateTime =  13/03/2025 8:48:51
+2025-03-13 08:49:06  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:49:26  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'
+2025-03-13 08:49:34  INFO  Sin = 29.856406460551018, State = 3383.991594391329, Counter = 1, dateTime =  13/03/2025 8:49:34
+2025-03-13 08:49:42  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:49:42  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'
+2025-03-13 08:49:46  INFO  Sin = 29.85640646055102, State = 1771.6121091006146, Counter = 2, dateTime =  13/03/2025 8:49:46
+2025-03-13 08:50:01  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:50:01  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'
+2025-03-13 08:50:07  INFO  Sin = 16.000000000000004, State = 2387.1787732219227, Counter = 3, dateTime =  13/03/2025 8:50:07
+2025-03-13 08:50:07  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:50:07  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'
+2025-03-13 08:50:09  INFO  Sin = 2.1435935394489842, State = 1056.6311604370503, Counter = 4, dateTime =  13/03/2025 8:50:09
+2025-03-13 08:50:09  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:50:09  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'
+2025-03-13 08:50:11  INFO  Sin = 2.1435935394489825, State = 2370.6800350525564, Counter = 5, dateTime =  13/03/2025 8:50:11
+2025-03-13 08:50:11  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:50:11  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'
+2025-03-13 08:50:13  INFO  Sin = 15.999999999999996, State = 960.4094435577277, Counter = 6, dateTime =  13/03/2025 8:50:13
+2025-03-13 08:50:14  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:50:14  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'
+2025-03-13 08:50:16  INFO  Sin = 29.856406460551014, State = 793.7136697544518, Counter = 7, dateTime =  13/03/2025 8:50:16
+2025-03-13 08:50:16  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:50:16  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'
+2025-03-13 08:50:18  INFO  Sin = 29.856406460551028, State = 1849.277982934803, Counter = 8, dateTime =  13/03/2025 8:50:18
+2025-03-13 08:50:18  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:50:18  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'
+2025-03-13 08:50:20  INFO  Sin = 16.000000000000007, State = 775.1237053968787, Counter = 9, dateTime =  13/03/2025 8:50:20
+2025-03-13 08:50:20  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:50:20  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'
+2025-03-13 08:50:22  INFO  Sin = 2.1435935394489807, State = 923.1031590433328, Counter = 10, dateTime =  13/03/2025 8:50:22
+2025-03-13 08:50:22  INFO  API POST request: https://localhost:7036/api/IoT/Queue. Response code: OK
+2025-03-13 08:50:22  WARN  Received response type 'text/plain' from api 'https://localhost:7036/api/IoT/Queue'

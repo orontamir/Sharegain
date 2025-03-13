@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fVgxispoKdKd7FAX3msIKj3CGZuDW1RUCdsVjKiM420=",
+  "Source": "DALService",
+  "BasePath": "_content/DALService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

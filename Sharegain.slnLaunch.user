@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "IoTService\\IoTService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DAL2Service\\DAL2Service.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

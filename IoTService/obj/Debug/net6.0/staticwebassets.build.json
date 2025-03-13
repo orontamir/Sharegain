@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kKDkHFNLHA9WzV0Hkqd+zqOEaa6j+QEyeAgHaDBCn14=",
+  "Source": "IoTService",
+  "BasePath": "_content/IoTService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+C:\Oron\Exams\Sharegain\DotNet\Base\bin\Debug\net6.0\Base.deps.json
+C:\Oron\Exams\Sharegain\DotNet\Base\bin\Debug\net6.0\Base.dll
+C:\Oron\Exams\Sharegain\DotNet\Base\bin\Debug\net6.0\Base.pdb
+C:\Oron\Exams\Sharegain\DotNet\Base\obj\Debug\net6.0\Base.csproj.AssemblyReference.cache
+C:\Oron\Exams\Sharegain\DotNet\Base\obj\Debug\net6.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Oron\Exams\Sharegain\DotNet\Base\obj\Debug\net6.0\Base.AssemblyInfoInputs.cache
+C:\Oron\Exams\Sharegain\DotNet\Base\obj\Debug\net6.0\Base.AssemblyInfo.cs
+C:\Oron\Exams\Sharegain\DotNet\Base\obj\Debug\net6.0\Base.csproj.CoreCompileInputs.cache
+C:\Oron\Exams\Sharegain\DotNet\Base\obj\Debug\net6.0\Base.dll
+C:\Oron\Exams\Sharegain\DotNet\Base\obj\Debug\net6.0\refint\Base.dll
+C:\Oron\Exams\Sharegain\DotNet\Base\obj\Debug\net6.0\Base.pdb
+C:\Oron\Exams\Sharegain\DotNet\Base\obj\Debug\net6.0\ref\Base.dll

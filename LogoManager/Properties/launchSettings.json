@@ -1,0 +1,28 @@
+{
+  "MultipleDatabaseSettings": {
+    "MainDB": {
+      "CollectionName": "",
+      "ConnectionString": "mongodb://root:qwerty@localhost:27017/admin?authMechanism=SCRAM-SHA-1",
+      "DatabaseName": "SharegainDb"
+    }
+  },
+  "Serilog": {
+    "MinimumLevel": {
+      "Default": "Information",
+      "Override": {
+        "Microsoft": "Warning",
+        "System": "Warning"
+      }
+    }
+  },
+  "TcpPort": 1313,
+  "TcpIp": "0.0.0.0",
+  "LogoManager": {
+    "commandName": "Project",
+    "launchBrowser": true,
+    "applicationUrl": "https://localhost:5001;http://localhost:5000",
+    "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development"
+    }
+  }
+}
