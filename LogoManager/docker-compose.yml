@@ -16,22 +16,16 @@ services:
       - 27017:27017
     restart: unless-stopped
 
- # --------------Logo Manager------------------------------
-
-  logo:
-    container_name: logo
-    build:
-      context: .
-      dockerfile: Dockerfile  
-    environment:
-      - MultipleDatabaseSettings__MainDB__CollectionName=
-      - MultipleDatabaseSettings__MainDB__ConnectionString=mongodb://root:qwerty@mongo:27017/admin?authMechanism=SCRAM-SHA-1
-      - MultipleDatabaseSettings__MainDB__DatabaseName=SharegainDb
-      - TcpPort=1313
-      - TcpIp=0.0.0.0
+#------------------------ My SQL ---------------------------
+  mysql:
+    image: mysql
     restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: qwerty
+#      MYSQL_DATABASE: root
     ports:
-      - 5000:5000
-      - 1313:1313
-    depends_on:
-      - mongo
+      - "3306:3306"
+    volumes:
+      - '~\Documents\Dev\MySQL:/var/lib/mysql'
+
+ 
